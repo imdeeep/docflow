@@ -1,0 +1,7 @@
+.cont me{
+    display:"flex"
+}
+.me{
+    display:"flex";
+    flex-direction: row-reverse;
+}
